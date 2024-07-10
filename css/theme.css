@@ -518,8 +518,10 @@ ul.sponsors {
 	padding-bottom: 25px;
 	border-top-width: 8px;
 	border-top-style: solid;
-	border-top-color: #2F2F2F;
-	background-color: #000000;
+	/*border-top-color: #2F2F2F;*/
+	border-top-color: #13294B;
+	/*background-color: #000000;*/
+	background-color: #13294B;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -534,7 +536,8 @@ ul.sponsors {
 	color: #8DBECE;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-bottom-color: #30393C;
+	/*border-bottom-color: #30393C;*/
+	border-bottom-color: #13294B;
 	line-height: 35px;
 	margin-bottom: 20px;
 	margin-top: 25px;
